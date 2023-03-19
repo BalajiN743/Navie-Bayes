@@ -1,7 +1,7 @@
 # Navie-Bayes
 Exploring Naive Bayes algorithm with  Salary dataset
 1) Prepare a classification model using Naive Bayes 
-for salary data 
+for salary data  and exploring the diiferent types navie bayes where naviebayes can be used for binary classification in a particular type and for multiclass classification
 
 Data Description:
 
